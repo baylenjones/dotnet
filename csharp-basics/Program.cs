@@ -1,12 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using variables;
 
-var name = "testing";
-int age = 26;
+Console.Write("testing");
 
-Console.WriteLine(name);
-
-if (age != null)
-{
-    Console.WriteLine(age);
-}
+//variables.var exampleVariables = new var();
+//exampleVariables.example();

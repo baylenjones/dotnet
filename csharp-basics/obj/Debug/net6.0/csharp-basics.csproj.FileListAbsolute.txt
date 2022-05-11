@@ -1,0 +1,15 @@
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.csproj.AssemblyReference.cache
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.AssemblyInfoInputs.cache
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.AssemblyInfo.cs
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.csproj.CoreCompileInputs.cache
+/Users/baylenjones/dev/dotnet/csharp-basics/bin/Debug/net6.0/csharp-basics
+/Users/baylenjones/dev/dotnet/csharp-basics/bin/Debug/net6.0/csharp-basics.deps.json
+/Users/baylenjones/dev/dotnet/csharp-basics/bin/Debug/net6.0/csharp-basics.runtimeconfig.json
+/Users/baylenjones/dev/dotnet/csharp-basics/bin/Debug/net6.0/csharp-basics.dll
+/Users/baylenjones/dev/dotnet/csharp-basics/bin/Debug/net6.0/csharp-basics.pdb
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.dll
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/refint/csharp-basics.dll
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.pdb
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/csharp-basics.genruntimeconfig.cache
+/Users/baylenjones/dev/dotnet/csharp-basics/obj/Debug/net6.0/ref/csharp-basics.dll
