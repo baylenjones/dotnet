@@ -1,0 +1,39 @@
+﻿.hero-img {
+    width: 40vw;
+}
+
+h1 {
+    font-family: 'Just Another Hand', cursive;
+    color: rgba(236, 127, 127, 1);
+    font-size: 55px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100vw;
+    margin-top: 5rem;
+}
+
+.call-to-action {
+    position: relative;
+    top: 25vh;
+    text-align: center;
+}
+
+    .call-to-action h1 {
+        font-size: 80px;
+    }
+
+.contact-btn {
+    height: 4rem;
+    width: 8rem;
+    padding: 1rem;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    border: none;
+    position: absolute;
+
+}
